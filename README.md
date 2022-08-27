@@ -23,5 +23,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-x64&layout=compact)](https://github.com/akshat-x64/github-readme-stats)
 
 
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="Italian Trulli">
+
 
