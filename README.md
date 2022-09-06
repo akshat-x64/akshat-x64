@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Akshat Dwivedi </h1>
 
-<h2 align="center">I am aspiring mern full stack developer</h2>
+<h2 align="center">I am aspiring mern full stack developer </h2>
 
 
 - 👀 I love writing beautiful & organized ``code`` and learning new ``technologies`` ...
